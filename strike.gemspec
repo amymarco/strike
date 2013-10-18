@@ -16,5 +16,5 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'rake',         '~> 10.1.0'
   gem.add_runtime_dependency 'my_obfuscate', '~> 0.3.7'
-  gem.add_runtime_dependency 'thor',         '~> 0.16.0'
+  gem.add_runtime_dependency 'thor',         '~> 0.18.1'
 end
